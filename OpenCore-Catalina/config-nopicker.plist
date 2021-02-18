@@ -700,19 +700,19 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02717306J9JG361M</string>
+			<string>{{BOARD_SERIAL_OLD}}</string>
 			<key>ROM</key>
 			<data>
-			m7zhIYfl
+			{{ROM_OLD}}
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>{{DEVICE_MODEL}}</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TM2ZBHX87</string>
+			<string>{{SERIAL_OLD}}</string>
 			<key>SystemUUID</key>
-			<string>007076A6-F2A2-4461-BBE5-BAD019F8025A</string>
+			<string>{{SYSTEM_UUID_OLD}}</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
